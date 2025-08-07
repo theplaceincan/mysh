@@ -1,4 +1,4 @@
-// A very minimal shell - basically just a wrapper
+// A minimal shell
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -128,3 +128,4 @@ int main() {
 
     return 0;
 }
+
